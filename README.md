@@ -14,3 +14,4 @@
 	- Swashbuckle.AspNetCore.SwaggerUI;
 3. In ConnectionStrings (Default) object of the appsettings.json the PostgreSQL user settings should be changed to relevant settings;
 4. Migration commands should be entered within the project console (e.g. "dotnet ef migrations add <name>" and dotnet ef database update).
+5. Initially project was created at the following repository: https://gitlab.com/bula86kz/projectsandtasksmanager.
